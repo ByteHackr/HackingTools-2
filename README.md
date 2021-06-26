@@ -1,4 +1,4 @@
-### **Awesome Penetration Testing** [![Links Check](https://travis-ci.org/enaqx/awesome-pentest.svg?branch=master)](https://travis-ci.org/enaqx/awesome-pentest)
+### **Awesome Penetration Testing** 
 
 
 A collection of awesome penetration testing resources
