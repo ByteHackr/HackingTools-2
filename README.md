@@ -486,7 +486,7 @@ A collection of awesome penetration testing resources
 * [Security Talks](https://github.com/PaulSec/awesome-sec-talks) - A curated list of security conferences
 
 ### Contribution
-Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
+Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](https://github.com/ByteHackr/HackingTools-2/blob/master/CONTRIBUTING.md) for more details.
 
 ### License
 
