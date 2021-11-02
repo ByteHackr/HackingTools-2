@@ -145,6 +145,7 @@ A collection of awesome penetration testing resources
 * [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR
 * [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 * [Vuls](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
+* [Acunetix](https://www.acunetix.com) - Web application vulnerability scanner
 
 #### Network Tools
 * [zmap](https://zmap.io/) - Open-source network scanner that enables researchers to easily perform Internet-wide network studies
