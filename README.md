@@ -287,6 +287,7 @@ A collection of awesome penetration testing resources
 * [Threat Crowd](https://www.threatcrowd.org/) - A search engine for threats
 * [Virus Total](https://www.virustotal.com/) - VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
 * [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+* [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade tool for Intelligence gathering and target mapping.
 
 #### Anonymity Tools
 * [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
